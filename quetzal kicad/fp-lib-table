@@ -12,4 +12,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/atreuskeypad/Quetzal/components and pretty/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "mcu")(type "KiCad")(uri "D:/KiCad Projects/atreuskeypad/Quetzal/components and pretty/mcu.pretty")(options "")(descr ""))
   (lib (name "mountingholes")(type "KiCad")(uri "D:/KiCad Projects/atreuskeypad/Quetzal/components and pretty/mountingholes.pretty")(options "")(descr ""))
+  (lib (name "imagefootprints")(type "KiCad")(uri "D:/KiCad Projects/atreuskeypad/Quetzal/components and pretty/imagefootprints.pretty")(options "")(descr ""))
 )
