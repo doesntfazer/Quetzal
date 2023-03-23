@@ -2,7 +2,7 @@
 
 100% ergo keyboard based on rp2040 Zero Board
 
-This Keyboard has yet to be tested, Although in it's current state, if you wanted to order boards with the gerber files it should work in theory.
+Keyboard is tested and working.
 
 Firmware for this board will be in the \[Keyboard Dweebs Firmware Repository\](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository)
 
